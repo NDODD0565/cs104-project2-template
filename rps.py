@@ -9,13 +9,9 @@ Name: TO FILL IN (your name)
 CS 104: Project 2
 FALL 2026
 
-Description: TO FILL IN (one or two sentences about what this program does)
-"""
+Description: """This program allows two players to play Rock, Paper, Scissors against each other. It compares their moves, keeps track of the scores for three rounds, and determines the overall winner."""
 
-# ***********************************************************************
-# Constants. Global constants are fine. Global variables are not.
-# Use these names in your code instead of typing the raw values.
-# ***********************************************************************
+
 COURSE_NAME = "CS 104"
 MAX_ROUNDS = 3
 
