@@ -1,42 +1,6 @@
 """
 rps.py
 
-Redistributed and modified with permission from the
-EECS Department at The University of Michigan, Ann Arbor
-
-Name: Naomi Dodd
-
-CS 104: Project 2
-FALL 2026
-
-Description: This program allows two players to play Rock, Paper, Scissors against each other. It compares their moves, keeps track of the scores for three rounds, and determines the overall winner."""
-
-
-COURSE_NAME = "CS 104"
-MAX_ROUNDS = 3
-
-ROCK = "r"
-PAPER = "p"
-SCISSORS = "s"
-DEFAULT_MOVE = ROCK
-
-PLAYER_1 = 1
-PLAYER_2 = 2
-DEFAULT_NAME_1 = "Rocky"
-DEFAULT_NAME_2 = "Creed"
-
-DRAW = 0
-
-ERROR_NAME = 1
-ERROR_MOVE = 2
-
-PLAY_RPS = 1
-PLAY_RPSLS = 2
-QUIT_CHOICE = 3
-
-"""
-rps.py
-
 Name: Naomi Dodd
 CS 104: Project 2
 Fall 2026
